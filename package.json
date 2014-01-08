@@ -10,7 +10,7 @@
     "start": "coffee app.coffee"
   },
   "dependencies": {
-    "coffe-script": "*",
+    "coffe-script": "1.6.3",
     "express": "3.1.1",
     "jade": "*",
     "stylus": "*"

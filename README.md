@@ -5,5 +5,5 @@ A simple express web using coffeescript
 
 To run
 
-  npm install
-  coffee app.coffee
+    npm install
+    coffee app.coffee
